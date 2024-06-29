@@ -30,5 +30,10 @@ movie-recommender/
 │   ├── train.py # Script for training the model
 ```
 
+## traing plot:
+
+(images/recommender_example.png)
+
+This image demonstrates the recommender system suggesting movies based on user preferences.
 
 
