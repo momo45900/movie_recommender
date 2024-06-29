@@ -10,6 +10,13 @@
 ## Usage
 To train the recommender system, adjust hyperparameters like embedding dimensions (`K`), batch size, and learning rate in the script as needed.
 
+
+## Technology Stack
+
+- **Framework**: This project utilizes PyTorch for building and training the recommender system.
+- **Training**: The training process is currently configured to run on CPU. For optimal performance, consider running on GPU if available.
+
+
 ## Evaluation
 The evaluation script calculates metrics such as Mean Squared Error (MSE) on a test set to assess model performance.
 
