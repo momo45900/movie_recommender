@@ -32,7 +32,7 @@ movie-recommender/
 
 ## traing plot:
 
-(images/recommender_example.png)
+(movie-recommender/img/plot.png)
 
 
 
