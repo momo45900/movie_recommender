@@ -16,7 +16,7 @@ To train the recommender system ,Adjust hyperparameters like embedding dimension
 Evaluation:
 This script calculates metrics such as Mean Squared Error (MSE) on a test set to assess model performance
 
-'''
+''' 
 movie-recommender/
 ├── data/
 │   ├── raw/
@@ -32,6 +32,6 @@ movie-recommender/
  
 
 
-'''
+''' 
 
 
