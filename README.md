@@ -34,6 +34,5 @@ movie-recommender/
 
 (images/recommender_example.png)
 
-This image demonstrates the recommender system suggesting movies based on user preferences.
 
 
