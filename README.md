@@ -20,18 +20,16 @@ This script calculates metrics such as Mean Squared Error (MSE) on a test set to
 movie-recommender/
 ├── data/
 │   ├── raw/
-│   │   └── ratings.csv      # Raw dataset
+│   │   └── ratings.csv # Raw dataset
 │   └── processed/
 │       └── edit_ratings.csv # Processed dataset after preprocessing
 ├── module/
-│   ├── model.py             # Recommender model definition
-│   ├── setup.py             # Dataset setup and DataLoader
-│   ├── process.py           # Data preprocessing functions
-│   ├── engine.py            # Training and evaluation engine
-│   ├── train.py             # Script for training the model
- 
+│   ├── model.py # Recommender model definition
+│   ├── setup.py # Dataset setup and DataLoader
+│   ├── process.py # Data preprocessing functions
+│   ├── engine.py # Training and evaluation engine
+│   ├── train.py # Script for training the model
+'''
 
-
-''' 
 
 
